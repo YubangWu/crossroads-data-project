@@ -3,7 +3,7 @@
 
 The part of data we used (studies run in Israel)
 
-Jupyter Notebook
+Jupyter Notebook（training code）
 
 # 
 
