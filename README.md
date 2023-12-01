@@ -1,2 +1,3 @@
 # crossroads-data-project
-Yeah
+Folder CarMeet contains:
+The part of data we used (in Isreal)
